@@ -1,5 +1,5 @@
 # image-processing
-This program is coded with ocaml , a function laguage !
+This program is written with ocaml , a function langage !
 
 - Check image details brightness & global contarast 
 - Generate histogram & cumulate histogram of an image
